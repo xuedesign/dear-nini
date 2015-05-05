@@ -12,10 +12,10 @@
 		   2-2. 主要內容區塊
 		   2-3. 首頁選單
 		   2-4. 版權列
-		3. 茶劇情
-		4. 茶劇照
-		5. 茶知識
-		6. 茶連結		
+		3. 劇情介紹
+		4. 劇照花絮
+		5. 單位簡介
+		6. 相關連結		
 ***********************************************************************************************/
 
 /* 1. 通用 
@@ -24,7 +24,7 @@ body{
 	font-family:"微軟正黑體","Microsoft JhengHei","新細明體","PMingLiU", Arial, Helvetica, sans-serif;
 	font-size:100%;
 	line-height:22px;
-	color:#4b4608}
+	color:#513030}
 a:link {text-decoration:underline; color:#00adee}
 a:visited {text-decoration:underline; color:#8c8c8c}
 a:hover {text-decoration:none; color:#F50}
@@ -61,8 +61,8 @@ image{border:0}
     -moz-box-shadow: 0 0 20px #4E4E4E;
     box-shadow: 0 0 20px #4E4E4E;
 	-webkit-border-radius: 15px;
-   -moz-border-radius: 15px;
-   border-radius: 15px;}
+    -moz-border-radius: 15px;
+    border-radius: 15px}
 
 /* 2.1 頂端列 */	
 header{
@@ -148,12 +148,12 @@ h1 a{
 #box_menu a.nav_01:hover, #box_aside a.nav_01:hover{ background-position: 0 -61px}
 #box_menu a.nav_02, #box_aside a.nav_02{ background-position: 0 -122px}
 #box_menu a.nav_02:hover, #box_aside a.nav_02:hover{ background-position: 0 -183px}
-#box_menu a.nav_03, #box_aside a.nav_03{ background-position: 0 -244px; margin-left:90px}
+#box_menu a.nav_03, #box_aside a.nav_03{ background-position: 0 -244px}
 #box_menu a.nav_03:hover, #box_aside a.nav_03:hover{ background-position: 0 -305px}
 #box_menu a.nav_04, #box_aside a.nav_04{ background-position: 0 -366px}
 #box_menu a.nav_04:hover, #box_aside a.nav_04:hover{ background-position: 0 -427px}
 #box_menu a.nav_05, #box_aside a.nav_05{ background-position: 0 -488px}
-#box_menu a.nav_05:hover, #box_aside a.nav_05:hover{ background-position: 0 -519px}	
+#box_menu a.nav_05:hover, #box_aside a.nav_05:hover{ background-position: 0 -549px}	
 
 /* 2.4 版權列 */					
 footer{
@@ -183,33 +183,36 @@ footer .txt_ad{
 	background:url(../images/pic_ad.png) no-repeat;
 	text-indent:-9999px}			
 	
-/* 3. 茶劇情  
+/* 3. 劇情介紹  
 ===============================================================================================*/
 #box_container{
 	display:block;
 	position: absolute;
 	top: 15px;
     left: 50%;
-	width:1240px;
-	background:url(../images/bg_box.png) repeat;
+	width:1238px;
+	background:url(../images/bg_container.jpg) repeat;
 	margin: 0 0 0 -620px;
 	-webkit-box-shadow: 0 0 20px #4E4E4E;
     -moz-box-shadow: 0 0 20px #4E4E4E;
-    box-shadow: 0 0 20px #4E4E4E}
+    box-shadow: 0 0 20px #4E4E4E;
+	-webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px}
 #box_container h2{
 	display:block;
 	position:absolute;
-	top:0;
+	top:5px;
 	right:48px;
 	background:url(../images/pic_h2-1.png) no-repeat;
-	width:255px;
-	height:83px;
+	width:386px;
+	height:89px;
 	text-indent:-9999px;
 	margin:0;
 	padding:0}
 #box_subcontent{
 	display:block;
-	width:1240px;
+	width:1238px;
 	margin-bottom:20px;}
 #box_aside{
 	display:block;
@@ -217,18 +220,17 @@ footer .txt_ad{
 	width:310px}
 #box_aside ul{
 	display:block;
-	width:200px;
-	padding:0 57px 0 53px}
+	width:195px;
+	padding-top:110px}
 #box_aside li{
 	display:block;
-	width:200px;
-	height:59px; 
-	padding-top:25px}	
+	width:195px;
+	height:61px}	
 #box_aside li a{
 	display: block;
 	float:left;
-	width:115px;
-	height:36px;
+	width:195px;
+	height:61px;
 	text-indent:-9999px;
 	background:url(../images/btn_nav.png) no-repeat;
 	margin-bottom:23px}	
@@ -236,62 +238,61 @@ footer .txt_ad{
 	display:block;
 	position:relative;
 	float:right;
-	width:925px;
-	min-height:500px;
-	border:5px solid #8d980b;
-	border-right:none;
-	background:url(../images/bg_pagedown.png)  20px bottom no-repeat}
+	width:923px;
+	min-height:550px}
 #box_pagemain h3{
 	display:block;
 	position:absolute;
 	top:0;
-	left:0;
+	left:80px;
 	background: url(../images/bg_pagetitle.png) no-repeat;
-	width:88px;
-	height:86px;
+	width:151px;
+	height:109px;
 	margin:0;
 	text-indent:-9999px}
 #box_pagemain .title_01{ background-position:0 0}
-#box_pagemain .title_02{ background-position:0 -86px}
-#box_pagemain .title_03{ background-position:0 -172px}
-#box_pagemain .title_04{ background-position:0 -258px}		
+#box_pagemain .title_02{ background-position:0 -109px}
+#box_pagemain .title_03{ background-position:0 -218px}
+#box_pagemain .title_04{ background-position:0 -327px}		
 #box_pageinfo{
 	display: block;
-	padding: 30px 0 20px 112px}
+	padding: 30px 50px 20px 112px}
 #box_pageinfo h4{ margin:0}
 #box_pageinfo p{ 
     font-size:0.938em;
-    line-height:25px}	
-#box_pageinfo.page_story{
-	display:block;
-	background: url(../images/bg_story.jpg) top right no-repeat;
-	padding-right:350px}
-.page_story h4{
-	display:block;
-	position:absolute;
-	top:30px;
-	left:112px;
-	text-indent:-9999px;
-	background:url(../images/pic_h3.png) no-repeat;
-	width:269px;
-	height:56px}
+    line-height:25px}
 .page_story .btn_play{
 	display:block;
 	position:absolute;
-	top:55px;
-	right:365px;
+	top:15px;
+	right:50px;
 	background: url(../images/btn_subplay.png) no-repeat;
-	width:104px;
-	height:30px;
+	width:113px;
+	height:29px;
 	text-indent:-9999px}
-.page_story .btn_play:hover{ background-position: 0 -30px}
+.page_story .btn_play:hover{ background-position: 0 -29px}
 .story_main{ 
     display:block; 
 	padding-top:80px;
-	border-bottom:1px dashed #4b4608}
-.page_story h5{
-	font-size:0.875em;
-	margin:20px 0 10px 0}
+	border-bottom:1px dashed #4b4608;
+	text-shadow:1px 1px 0 #FFFCFE}
+.box_actor{ 
+    display:block; 
+	width:760px; 
+	margin:0 auto}
+.box_actor li{
+	display:block;
+	float:left;
+	width:180px;
+	margin:0 30px;
+	list-style:none}
+.box_actor li img{ display:block; width:164px; margin:0 auto 20px auto}	
+.box_actor li h4{
+	font-size:1.125em;
+	line-height:20px;
+	color:#C6162D;
+	letter-spacing:1px;
+	text-align:center}		
 .my_table{
 	display:block;
 	width:463px;
@@ -301,7 +302,7 @@ footer .txt_ad{
 .my_table .tdtop{ vertical-align:top}
 .my_table .fu{ padding-right:7px}				 	 	
 			
-/* 4. 茶劇照 
+/* 4. 劇照花絮 
 ===============================================================================================*/
 #box_pageinfo .box_stills{
 	display:block;
@@ -391,7 +392,7 @@ footer .txt_ad{
 	height:369px;
 	padding:15px 0 30px 40px}	
 
-/* 5. 茶知識 
+/* 5. 單位簡介
 ===============================================================================================*/
 #box_process li{
 	list-style:none;
@@ -434,7 +435,7 @@ footer .txt_ad{
 	padding-left:25px;
 	margin:5px 25px 15px 0}	
 
-/* 6. 茶連結  
+/* 6. 相關連結  
 ===============================================================================================*/
 #box_link ul{
 	display:block;

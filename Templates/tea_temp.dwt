@@ -2,17 +2,17 @@
 <html lang="zh-tw">
 <head>
 <meta charset="utf-8" lang="zh-tw">
-<meta name="description" content="苦中帶甘的茶湯味，就像爸爸對女兒的疼惜"/>
-<meta name="keywords" content="高雄餐旅大學,微電影,茶香,吳朋奉,李相林,卓越數位科技"/>
-<meta name="Author" content="National Kaohsiung University of Hospitality and Tourism" />
+<meta name="description" content="有你在的地方，幸福原來離我們這麼近"/>
+<meta name="keywords" content="中華民國行政院大陸委員會,微電影,卓越數位科技,開始設計工作室"/>
+<meta name="Author" content="中華民國行政院大陸委員會 Mainland Affairs Council, Republic of China(Taiwan) " />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>茶劇情│掌心裏的茶香-高雄餐旅大學茶園微電影</title>
+<title>幸福小距離-中華民國行政院大陸委員會微電影</title>
 <!-- TemplateEndEditable -->
 <link rel="shortcut icon"  href="../images/favicon.ico"/>
 <link rel="icon" href="../images/favicon.ico"/>
 <link rel="stylesheet" href="../css/pure-min.css"/>
-<link rel="stylesheet" href="../css/xuedesign_201412.css"/>
+<link rel="stylesheet" href="../css/xuedesign_201505.css"/>
 <link rel="stylesheet" href="../css/jquery.fancybox.css"/>
 <link rel="stylesheet" href="../css/fancybox-thumbs.css"/>
 <!--[if lt IE 9]>
@@ -35,82 +35,56 @@
    <div id="box_main">
       <div id="box_container">
          <header>
-            <h1><a href="http://www.nkuht.edu.tw/main.php" rel="external" title="[另開視窗]國立高雄餐旅大學">國立高雄餐旅大學 National Kaohsiung University of Hospitality and Tourism</a></h1>
-            <h2>掌心裏的茶香</h2>
+            <h1><a href="http://www.mac.gov.tw/" rel="external" title="[另開視窗]中華民國行政院大陸委員會">中華民國行政院大陸委員會 Mainland Affairs Council, Republic of China(Taiwan) </a></h1>
+            <h2>幸福小距離</h2>
          </header>
          
          <div id="box_subcontent">
             <nav id="box_aside">
                <ul>
-                  <li><a href="../story.html" class="nav_01">[茶]劇情</a></li>
-                  <li><a href="../stills.html" class="nav_02">[茶]劇照</a></li>
-                  <li><a href="../process.html" class="nav_03">[茶]知識</a></li>
-                  <li><a href="../link.html" class="nav_04">[茶]連結</a></li>
+                  <li><a href="../story.html" class="nav_01">劇情介紹</a></li>
+                  <li><a href="../stills.html" class="nav_03">劇照花絮</a></li>
+                  <li><a href="../profile.html" class="nav_02">單位簡介</a></li>
+                  <li><a href="../link.html" class="nav_04">相關連結</a></li>
                   <li><a href="../index.html" class="nav_05">返回首頁</a></li>
                </ul>
             </nav>
             
+            
+            <!-- TemplateBeginEditable name="pagemain" -->
             <div id="box_pagemain">
-              <!-- TemplateBeginEditable name="page-main" -->
-              <h3 class="title_01">劇情</h3>
-              <section id="box_pageinfo" class="page_story">
-                <h4>苦中帶甘的茶湯味，就像爸爸對女兒的疼惜...</h4>
-                <a class="fancybox-media btn_play" href="https://www.youtube.com/watch?v=WMtmy_W4vFg&feature=youtu.be" title="[影片播放] 掌心裏的茶香">[影片播放] 掌心裏的茶香</a>
+              <h3 class="title_01">劇情介紹</h3>
+              <section id="box_pageinfo" class="page_story"> <a class="fancybox-media btn_play" href="https://www.youtube.com/watch?v=VdW5nBB9-k4" title="[影片播放] 幸福小距離">[影片播放] 幸福小距離</a>
                 <div class="story_main">
-                  <p>可晴再次邀請爸爸武雄去見男朋友的家長，不料爸爸卻推三阻四，不但不小心摔傷膝蓋，還弄髒了可晴幫他準備的新襯衫。究竟為什麼爸爸執意熬夜做茶，又老是藉故缺席呢？</p>
-                  <p>可晴在幫忙爸爸做茶的過程之中，瞭解了爸爸一直不願參加的原因...</p>
+                  <p style="text-indent:15px">從江蘇嫁來台灣的年輕媽媽江敏跟其他就業婦女一樣，在工作與家庭之間兩頭燒。她正面臨生命中最忙碌的一天，就讀國小的女兒妮妮生日，在安親班等著她下班接送。但她得先處理好公司的客戶，沒想到客戶竟心臟病發。幸好安親班的工友奶奶鍾梅留下來照料妮妮，這一老一小竟有聊不完的話。就在妮妮快要對媽媽失去信心的時候，江敏終於狼狽出現，母女倆緊緊擁抱。江敏跟鍾梅大力道謝，鍾梅則輕描淡寫地說她完全理解江敏的心境。跨越兩個世代的江蘇媳婦，在此溫暖交心。</p>
                 </div>
-                <h5>102-105年發展典範科技大學計畫</h5>
-                <table width="100%" class="my_table">
-                  <tr>
-                    <td>發行單位：</td>
-                    <td>國立高雄餐旅大學</td>
-                  </tr>
-                  <tr>
-                    <td><span class="fu">發</span><span class="fu">行</span>人：</td>
-                    <td>容繼業</td>
-                  </tr>
-                  <tr>
-                    <td><span class="fu">總</span><span class="fu">策</span>劃：</td>
-                    <td>張忠明</td>
-                  </tr>
-                  <tr>
-                    <td>執行單位：</td>
-                    <td>國立高雄餐旅大學通識中心</td>
-                  </tr>
-                  <tr>
-                    <td>協辦單位：</td>
-                    <td>典範科大計畫辦公室</td>
-                  </tr>
-                  <tr>
-                    <td class="tdtop">顧　　問：</td>
-                    <td>國立台灣藝術大學電影學系 廖金鳳主任<br>
-                      世新大學新聞傳播學院 黃耀德助理教授<br>
-                      賈漢家導演 </td>
-                  </tr>
-                  <tr>
-                    <td class="tdtop">製作團隊：</td>
-                    <td>張忠明、施拓全、蔡世鴻、陳怡靜、朱育賢、林世凌、<br>
-                      邱懷萱、施沛箐、陳名涵、陳如萍、柯佳婷</td>
-                  </tr>
-                  <tr>
-                    <td>拍攝團隊：</td>
-                    <td>卓越數位科技有限公司</td>
-                  </tr>
-                  <tr>
-                    <td>美術設計：</td>
-                    <td>豪帝工坊</td>
-                  </tr>
-                </table>
+                <div class="box_actor">
+                  <ul>
+                    <li> <img src="../images/pic_actor-01.jpg" alt="*">
+                      <h4>江敏</h4>
+                      <p>女，約30歲，從江蘇嫁來台灣，個性熱情負責，上班族，育有一女。</p>
+                    </li>
+                    <li> <img src="../images/pic_actor-02.jpg" alt="*">
+                      <h4>妮妮</h4>
+                      <p>女，約7歲，國小一年級，個性倔強、成熟。</p>
+                    </li>
+                    <li> <img src="../images/pic_actor-03.jpg" alt="*">
+                      <h4>鍾梅</h4>
+                      <p>女，約50歲，早年從江蘇嫁來台灣，個性純樸善良，在安親班當工友</p>
+                    </li>
+                  </ul>
+                </div>
               </section>
-              <!-- TemplateEndEditable -->
             </div>
+            <!-- TemplateEndEditable -->
+            
+            
             <br class="clean">
          </div>
          
          <footer>
-            <p>國立高雄餐旅大學版權所有 National Kaohsiung University of Hospitality and Tourism© 2014 All RIGHTS RESERVED</p>
-            <!--<span class="txt_ad">廣告</span>-->
+            <p>中華民國行政院大陸委員會 版權所有 Mainland Affairs Council &copy; 2015 All RIGHTS RESERVED</p>
+            <span class="txt_ad">廣告</span>
          </footer>
          <p class="hidden">網站設計： 開始設計工作室 xuedesign studio, http://www.xuedesign.tw/</p>
       </div>
@@ -131,3 +105,28 @@ closeEffect:"elastic",closeSpeed:150,closeClick:!0,helpers:{overlay:null}});$(".
 <script src="../script/web_set.js"></script>
 </body>
 </html>
+<!--
+   ##############               ###############   
+    ##############             ###############    
+    ##############             ##############     
+     ##############           ##############      
+      ##############          #############       
+       #############         ##############       
+        #############       ##############        
+        ##############      #############         
+         ###############################          
+         ###############################          
+        #################################         
+        ##############     ##############         
+       ##############       ##############        
+       ##############        ##############       
+      ##############         #######           
+     ###############          ##############      
+     ##############           ###############     
+    ######      
+    ##############              ##############    
+   ##############               ##############
+          
+                 【開始設計工作室】
+                www.xuedesign.tw
+-->
